@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/101635385/231371153-e2f0574f-80be-40f8-8b2d-e470108bbd48.png" width="350"></h1>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/101635385/231371153-e2f0574f-80be-40f8-8b2d-e470108bbd48.png" width="150"></h1>
 <h1 align="center"> QBlockChain-Mainnet </h1>
 <h1 align="center"> Hercules
 </h1>
