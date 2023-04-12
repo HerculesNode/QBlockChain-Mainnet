@@ -253,7 +253,11 @@ docker-compose up -d
 
 
 
+<h3> To enter the ranking after staking, go to this address and then press the Join validator Ranking button. <h3>
+  
+<a href="https://hq.q.org/staking/validators/manage-balance" target="_blank"> Join Validator Ranking </a>  
 
+  ![image](https://user-images.githubusercontent.com/101635385/231562474-4cb06197-622f-4970-a487-375a5f52d224.png)
 
 
 
