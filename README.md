@@ -169,7 +169,74 @@ cd $HOME/mainnet-public-tools/validator/
 docker-compose up -d
 ```
 
+<hr>
 
+## 🟢 OmniBridge Setup
+
+```shell
+cd mainnet-public-tools
+```
+
+```shell
+cd mainnet-public-tools/omnibridge-oracle
+```
+```shell
+cp .env.mainnet .env
+```
+```shell
+nano .env
+```
+
+* edit and save the following places.
+
+* ORACLE_VALIDATOR_ADDRESS	= type your validator wallet address
+* ORACLE_VALIDATOR_ADDRESS_PRIVATE_KEY = type the private key of your wallet address
+* COMMON_FOREIGN_RPC_URL = Get eth mainnet RPC from infura, blockpi, Alchemy, ankr or another provider.
+
+```shell
+docker-compose up -d
+```
+
+## 🟢 OmniBridge-UI Setup
+
+```shell
+cd ../omnibridge-ui
+```
+```shell
+cp .env.mainnet .env
+```
+```shell
+nano .env
+```
+
+* edit and save the following places.
+
+* REACT_APP_FOREIGN_RPC_URL	= Get eth mainnet RPC from infura, blockpi, Alchemy, ankr or another provider.
+
+```shell
+docker-compose up -d
+```
+
+## 🟢 Omnibridge-ALM Setup
+
+```shell
+cd ../omnibridge-alm
+```
+```shell
+cp .env.mainnet .env
+```
+```shell
+nano .env
+```
+
+* edit and save the following places.
+
+* PORT	= 8090 You can change the port address if you want.
+* COMMON_FOREIGN_RPC_URL = Get eth mainnet RPC from infura, blockpi, Alchemy, ankr or another provider.
+
+```shell
+docker-compose up -d
+```
 
 
 
