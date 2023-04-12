@@ -3,8 +3,12 @@
 <h1 align="center"> Hercules
 </h1>
 
-## 🟢 <a href="https://github.com/herculessx/QBlockChain-Mainnet/blob/main/Delegate.md" target="_blank"> Click </a> for delegation procedures 
 
+<h3 align="center">🟢  If you do not want to install mainnet. You can delegate your tokens to Hercules Validator. <br>
+To find out how to delegate  <a href="https://github.com/herculessx/QBlockChain-Mainnet/blob/main/Delegate.md" target="_blank"> Click </a> 
+</h3>
+
+<hr> 
 
 ## System requirements
 
@@ -259,9 +263,6 @@ docker-compose up -d
 
   ![image](https://user-images.githubusercontent.com/101635385/231562474-4cb06197-622f-4970-a487-375a5f52d224.png)
 
-
-
-## 🟢 <a href="https://github.com/herculessx/QBlockChain-Mainnet/blob/main/Delegate.md" target="_blank"> Click </a> for delegation procedures 
 
 
 
