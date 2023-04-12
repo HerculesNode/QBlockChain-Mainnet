@@ -239,6 +239,14 @@ docker-compose up -d
 ```
 
 
+## 🟢 Manege Delegations
+
+1- Q Go to the Manage Delagations page.  <a href="https://hq.q.org/staking/delegations/manual" target="_blank"> Manege Delegations </a>
+2- Connect your wallet and log in. 
+
+![image](https://user-images.githubusercontent.com/101635385/231397076-6144ab9e-ab6d-4cdc-bf2d-01265de511b4.png)
+
+3 - 
 
 
 
