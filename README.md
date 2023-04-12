@@ -3,6 +3,8 @@
 <h1 align="center"> Hercules
 </h1>
 
+## 🟢 <a href="https://github.com/herculessx/QBlockChain-Mainnet/blob/main/Delegate.md" target="_blank"> Click </a> for delegation procedures 
+
 
 ## System requirements
 
@@ -238,6 +240,8 @@ nano .env
 docker-compose up -d
 ```
 
+
+## 🟢 <a href="https://github.com/herculessx/QBlockChain-Mainnet/blob/main/Delegate.md" target="_blank"> Click </a> for delegation procedures 
 
 
 
