@@ -240,6 +240,22 @@ nano .env
 docker-compose up -d
 ```
 
+## 🟢 Validator Stake
+
+* After installing mainnet, you now need to do staking.  
+* go to this address and connect your wallet. and click on the field in the picture and type the desired amount and confirm.
+
+<a href="https://hq.q.org/staking/validators/manage-balance" target="_blank"> Staking </a>
+
+![image](https://user-images.githubusercontent.com/101635385/231559628-d4693402-64e3-4e49-9596-c7b2ce718bc1.png)
+
+![image](https://user-images.githubusercontent.com/101635385/231559838-ad2b752c-d1a3-40b4-bd4b-cb4fd1c69bca.png)
+
+
+
+
+
+
 
 ## 🟢 <a href="https://github.com/herculessx/QBlockChain-Mainnet/blob/main/Delegate.md" target="_blank"> Click </a> for delegation procedures 
 
