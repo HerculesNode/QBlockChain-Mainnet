@@ -42,7 +42,7 @@ We confirm, we do wallet confirmation. It will take a small fee and after approv
  6- Now we log out of our account (B) and log in to the hq site with our account (A)
 
 * Let's come back to the Account aliasing section. 
-* Click the Manege button in the picture.
+* Click the Manage button in the picture.
   
 ![image](https://user-images.githubusercontent.com/101635385/231690800-e0828842-f40e-41c3-835e-0ba7ad279054.png)
   
