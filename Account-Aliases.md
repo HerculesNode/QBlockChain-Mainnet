@@ -52,6 +52,8 @@ We confirm, we do wallet confirmation. It will take a small fee and after approv
   ![image](https://user-images.githubusercontent.com/101635385/231691449-541301aa-b785-4e21-9864-03749ab2efca.png)
 
   
+  <hr>
+  
   7 - We're all set now. We can start using our account with an alias.  Run your node again. 
 
 ![image](https://user-images.githubusercontent.com/101635385/231692010-21def420-97cd-4371-92e0-e79e07a1e3a5.png)
@@ -65,4 +67,4 @@ cd mainnet-public-tools/validator/
 docker-compose up -d
 ```
 
-
+</h3>
