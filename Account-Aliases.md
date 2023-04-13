@@ -3,7 +3,6 @@
 <h1 align="center"> Hercules
 </h1>
 
-## System requirements
 
 * You can use an alias on Q mainnet. This way you don't need to share the secret words of your main wallet.
 * The operations you need to do are very simple. While doing these transactions, you need to have Q token in your account at a very small rate.
