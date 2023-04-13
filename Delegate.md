@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://hq.q.org/staking/validators/0x24327820664a9CEc76c482bff9f964864FfAed57" target="_blank"> <img src="https://user-images.githubusercontent.com/101635385/231752054-36682dca-4867-4f9a-81e8-603449974937.png" width="300"></a></h1>
+<h1 align="center"><a href="https://hq.q.org/staking/validators/0x24327820664a9CEc76c482bff9f964864FfAed57" target="_blank"><img src="https://user-images.githubusercontent.com/101635385/231752054-36682dca-4867-4f9a-81e8-603449974937.png" width="300"></a></h1>
 <h1 align="center"> QBlockChain delegate operations </h1>
 <h1 align="center"> You can delegate your "Hercules Validator" Q tokens
 
