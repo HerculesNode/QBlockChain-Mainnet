@@ -5,7 +5,11 @@
 
 
 <h3 align="center">🟢  If you do not want to install mainnet. You can delegate your tokens to Hercules Validator. <br>
-To find out how to delegate  <a href="https://github.com/herculessx/QBlockChain-Mainnet/blob/main/Delegate.md" target="_blank"> Click </a> 
+:rocket::rocket::rocket: To find out how to delegate  <a href="https://github.com/herculessx/QBlockChain-Mainnet/blob/main/Delegate.md" target="_blank"> Hercules Validator </a> :rocket::rocket::rocket:
+<br><br>
+  If you want to install mainnet, follow the steps below.  
+  
+  
 </h3>
 
 <hr> 
