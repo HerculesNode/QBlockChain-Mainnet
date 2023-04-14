@@ -23,19 +23,19 @@
 
 <hr>
 
-## 1- System update
+## :one: System update
 ```shell
 sudo apt update && sudo apt upgrade -y
 ```
 <hr>
 
-## 2- Libraries install
+## 2️⃣ Libraries install
 ```shell
 apt install ca-certificates curl gnupg lsb-release git htop
 ```
 <hr>
 
-## 3- Docker Setup
+## 3️⃣ Docker Setup
 ```shell
 
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
@@ -46,12 +46,12 @@ docker version
 ```
 <hr>
 
-## 4- Clone the repository
+## 4️⃣ Clone the repository
 ```shell
 git clone https://gitlab.com/q-dev/mainnet-public-tools
 ```
 
-## 5- Creating keystore Folder and pwd.txt File
+## 5️⃣ Creating keystore Folder and pwd.txt File
 ```shell
 cd mainnet-public-tools/validator/
 ```
@@ -68,7 +68,7 @@ echo YOUR-PASSWORD > keystore/pwd.txt
 
 * " If you have a UTC file you have used before, put it into the keystore folder and do not do the wallet creation step. If you are going to create a new wallet, you need to do this step."
 
-## 6- Creating a wallet
+## 6️⃣ Creating a wallet
 ```shell
 docker run --entrypoint="" --rm -v $PWD:/data -it qblockchain/q-client:1.2.3 geth account new --datadir=/data --password=/data/keystore/pwd.txt
 ```
@@ -83,7 +83,7 @@ docker run --entrypoint="" --rm -v $PWD:/data -it qblockchain/q-client:1.2.3 get
 
 
 
-## 7- Edit our .env file
+## 7️⃣ Edit our .env file
 ```shell
 cp .env.example .env
 ```
@@ -98,7 +98,7 @@ nano .env
 ![image](https://user-images.githubusercontent.com/101635385/231376152-6407d925-84aa-47f2-93a9-baba37e60128.png)
 
 
-## 8- Edit our docker-compose
+## 8️⃣ Edit our docker-compose
 ```shell
 nano docker-compose.yaml
 ```
@@ -115,7 +115,7 @@ nano docker-compose.yaml
 ```
 
 
-## 9- Edit our config.json
+## 9️⃣ Edit our config.json
 ```shell
 nano config.json
 ```
@@ -125,12 +125,12 @@ nano config.json
 ![image](https://user-images.githubusercontent.com/101635385/231378686-373b374e-71d0-4e0d-adf4-282e2771fa2e.png)
 
 
-## 10-Start our Node.
+## 🔟 Start our Node.
 ```shell
 docker-compose up -d
 ```
 
-## 11-Log 
+## 11 - Log 
 ```shell
 docker-compose logs -f --tail "100"
 ```
