@@ -9,7 +9,7 @@
 
 </h1>
 
-## 🟢 Connect Wallet
+## :one: Connect Wallet
 
 * Log in with your wallet containing Q tokens. 
 
@@ -17,8 +17,22 @@
 
 ![image](https://user-images.githubusercontent.com/101635385/231523648-3d768515-e5e3-483e-b40b-a3761c33c268.png)
 
+<hr>
 
-## 🟢 Go to the hercules page.
+### 🟢  First of all, your tokens must appear on QVault. If you see your tokens here, you can do the following operations. 
+
+⏬ should look like the picture below.
+
+<a href="https://hq.q.org/q-vault" target="_blank" > Q-Vault </a>
+
+![image](https://user-images.githubusercontent.com/101635385/232746822-5a6f878c-e7a7-4a43-adb2-1b77e2b4e5bb.png)
+
+
+
+<hr>
+
+
+## :two: Go to the hercules page.
 
 
 <h3> Go to the <a href="https://hq.q.org/staking/validators/0x24327820664a9CEc76c482bff9f964864FfAed57" target="_blank" > Hercules Validator </a> page and press the delegate button in the picture </h3>
@@ -26,7 +40,7 @@
 ![image](https://user-images.githubusercontent.com/101635385/231524564-b5a21c1f-1a92-4dbe-a22c-bad2d1f18409.png)
 
 
-<h3> Enter the amount you wish to deposit and press the confirm button. </h3>
+<h3> ## 3️⃣: Enter the amount you wish to deposit and press the confirm button. </h3>
 
 ![image](https://user-images.githubusercontent.com/101635385/231525147-64cadf7a-fd4b-4ed4-a4cc-ee996812efa5.png)
 
