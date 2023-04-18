@@ -40,7 +40,7 @@
 ![image](https://user-images.githubusercontent.com/101635385/231524564-b5a21c1f-1a92-4dbe-a22c-bad2d1f18409.png)
 
 
-<h3> ## 3️⃣: Enter the amount you wish to deposit and press the confirm button. </h3>
+<h3> 3️⃣ Enter the amount you wish to deposit and press the confirm button. </h3>
 
 ![image](https://user-images.githubusercontent.com/101635385/231525147-64cadf7a-fd4b-4ed4-a4cc-ee996812efa5.png)
 
