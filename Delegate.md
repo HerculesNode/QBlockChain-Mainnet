@@ -44,5 +44,6 @@
 
 ![image](https://user-images.githubusercontent.com/101635385/231525147-64cadf7a-fd4b-4ed4-a4cc-ee996812efa5.png)
 
+<br><hr>
 
-<h2> Your delegation is complete. If you have any questions, you can contact me via Q discord.</h2>
+<h2 align="center"> 🚀🚀🚀 Your delegation is complete. <br> If you have any questions, you can contact me via Q discord. 🚀🚀🚀</h2>
