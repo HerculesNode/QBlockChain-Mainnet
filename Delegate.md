@@ -46,4 +46,4 @@
 
 <br><hr>
 
-<h2 align="center"> 🚀🚀🚀 Your delegation is complete. <br> If you have any questions, you can contact me via Q discord. 🚀🚀🚀</h2>
+<h2 align="center">Your delegation is complete. <br>🚀🚀🚀 If you have any questions, you can contact me via Q discord. 🚀🚀🚀</h2>
