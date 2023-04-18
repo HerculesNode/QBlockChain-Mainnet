@@ -37,7 +37,7 @@
 
 <h3> Go to the <a href="https://hq.q.org/staking/validators/0x24327820664a9CEc76c482bff9f964864FfAed57" target="_blank" > Hercules Validator </a> page and press the delegate button in the picture </h3>
 
-![image](https://user-images.githubusercontent.com/101635385/231524564-b5a21c1f-1a92-4dbe-a22c-bad2d1f18409.png)
+![image](https://user-images.githubusercontent.com/101635385/232749264-9bfc23b8-0854-4009-a2b8-65644871cf6b.png)
 
 
 <h3> 3️⃣ Enter the amount you wish to deposit and press the confirm button. </h3>
