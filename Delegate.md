@@ -25,7 +25,7 @@
 
 <a href="https://hq.q.org/q-vault" target="_blank" > Q-Vault </a>
 
-![image](https://user-images.githubusercontent.com/101635385/232746822-5a6f878c-e7a7-4a43-adb2-1b77e2b4e5bb.png)
+![image](https://user-images.githubusercontent.com/101635385/232748612-dff6c3c3-93fa-47d7-96de-b97c9df64e3d.png)
 
 
 
