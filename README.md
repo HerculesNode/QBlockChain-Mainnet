@@ -99,6 +99,10 @@ nano .env
 
 
 ## 8️⃣ Edit our docker-compose
+
+#### "Important: this step is optional. Q team will give mainnet access key to validators which are in the rank 1 to 135"
+
+
 ```shell
 nano docker-compose.yaml
 ```
