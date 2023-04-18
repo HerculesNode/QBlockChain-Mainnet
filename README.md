@@ -14,6 +14,14 @@
 
 <hr> 
 
+
+## Florian Drewes Medium 
+
+
+<img src="https://miro.medium.com/v2/resize:fill:48:48/1*ry5A6VgmwdYIEiYSUSSBOA.png" width="50">
+<a href="https://medium.com/q-blockchain/q-blockchain-validator-onboarding-program-part-2-become-an-early-mainnet-validator-b35de6afcd87" target="_blank">Medium Article </a>
+
+
 ## System requirements
 
 * Linux machine with SSH access;
