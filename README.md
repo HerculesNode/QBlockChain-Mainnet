@@ -1,4 +1,7 @@
-<h1 align="center"><a href="https://hq.q.org/staking/validators/0x24327820664a9CEc76c482bff9f964864FfAed57" target="_blank"><img src="https://user-images.githubusercontent.com/101635385/231752054-36682dca-4867-4f9a-81e8-603449974937.png" width="300"></a></h1>
+<h1 align="center"><a href="https://hq.q.org/staking/validators/0x24327820664a9CEc76c482bff9f964864FfAed57" target="_blank"><img src="https://github.com/herculessx/QBlockChain-Mainnet/assets/101635385/d163eea6-6389-4b13-8a7d-a8083bb8dc4c" ></a></h1>
+
+
+
 <h1 align="center"> QBlockChain-Mainnet </h1>
 <h1 align="center"> Hercules
 </h1>
