@@ -1,6 +1,7 @@
-<h1 align="center"><a href="https://hq.q.org/staking/validators/0x24327820664a9CEc76c482bff9f964864FfAed57" target="_blank"><img src="https://github.com/herculessx/QBlockChain-Mainnet/assets/101635385/d163eea6-6389-4b13-8a7d-a8083bb8dc4c" ></a></h1>
+<h1 align="center"><a href="https://hq.q.org/staking/validators/0x24327820664a9CEc76c482bff9f964864FfAed57" target="_blank"><img src="https://github.com/herculessx/QBlockChain-Mainnet/assets/101635385/c9fefdc2-17de-4591-ae54-03732330ce27" ></a></h1>
 
 
+<h1 align="center"> Total Delegate : 43K </h1> <br>
 
 <h1 align="center"> QBlockChain-Mainnet </h1>
 <h1 align="center"> Hercules
