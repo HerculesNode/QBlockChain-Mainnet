@@ -320,6 +320,9 @@ docker-compose logs -f --tail "100"
 ```
 
 
+* bingo 
+![image](https://github.com/herculessx/QBlockChain-Mainnet/assets/101635385/7b9dace3-23da-455f-9e4d-8830bb3500b5)
+
 
 
 
