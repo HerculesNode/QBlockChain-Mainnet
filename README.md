@@ -286,13 +286,15 @@ docker-compose up -d
  
  ## 🟢 v1.3.0 Update
  
- 
+1️⃣
 
  ```shell
 cd mainnet-public-tools/validator/
 ```
  
- * stop with ctrl + c.  
+ * stop with ctrl + c. 
+ 
+2️⃣
  
   ```shell
 nano .env 
@@ -302,25 +304,28 @@ nano .env
  
  ![image](https://github.com/herculessx/QBlockChain-Mainnet/assets/101635385/acf1be7e-59eb-48ca-8b69-919948ac7bbc)
  
+3️⃣ download the update files.
+ 
    ```shell
 docker-compose pull
 ```
 
  
- * start your node. 
+4️⃣ start your node. 
  
 ```shell
 docker-compose up -d
 ```
  
- * check the logs.
+5️⃣ check the logs.
 
 ```shell
 docker-compose logs -f --tail "100"
 ```
 
 
-* bingo 
+* Bingo 
+
 ![image](https://github.com/herculessx/QBlockChain-Mainnet/assets/101635385/7b9dace3-23da-455f-9e4d-8830bb3500b5)
 
 
