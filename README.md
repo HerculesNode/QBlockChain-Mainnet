@@ -282,6 +282,44 @@ docker-compose up -d
 <a href="https://hq.q.org/staking/validators/manage-balance" target="_blank"> Join Validator Ranking </a>  
 
   ![image](https://user-images.githubusercontent.com/101635385/231562474-4cb06197-622f-4970-a487-375a5f52d224.png)
+ 
+ 
+ ## 🟢 v1.3.0 Update
+ 
+ 
+
+ ```shell
+cd mainnet-public-tools/validator/
+```
+ 
+ * stop with ctrl + c.  
+ 
+  ```shell
+nano .env 
+```
+ 
+ * On the page that opens, type 1.3.0 in your .env file and save it with ctrl + c and yes.
+ 
+ ![image](https://github.com/herculessx/QBlockChain-Mainnet/assets/101635385/acf1be7e-59eb-48ca-8b69-919948ac7bbc)
+ 
+   ```shell
+docker-compose pull
+```
+
+ 
+ * start your node. 
+ 
+```shell
+docker-compose up -d
+```
+ 
+ * check the logs.
+
+```shell
+docker-compose logs -f --tail "100"
+```
+
+
 
 
 
