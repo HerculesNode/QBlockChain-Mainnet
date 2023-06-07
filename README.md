@@ -292,7 +292,7 @@ docker-compose up -d
 cd mainnet-public-tools/validator/
 ```
  
- * stop with ctrl + c. 
+ * stop LOG with ctrl + c. 
  
 2️⃣
  
@@ -300,7 +300,7 @@ cd mainnet-public-tools/validator/
 nano .env 
 ```
  
- * On the page that opens, type 1.3.0 in your .env file and save it with ctrl + c and yes.
+ * On the page that opens, type 1.3.0 in your .env file and save it with ctrl + X and yes.
  
  ![image](https://github.com/herculessx/QBlockChain-Mainnet/assets/101635385/acf1be7e-59eb-48ca-8b69-919948ac7bbc)
  
