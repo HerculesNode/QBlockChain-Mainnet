@@ -284,7 +284,7 @@ docker-compose up -d
   ![image](https://user-images.githubusercontent.com/101635385/231562474-4cb06197-622f-4970-a487-375a5f52d224.png)
  
  
- ## 🟢 v1.3.0 Update
+ ## 🟢 v1.3.1 Update
  
 1️⃣
 
